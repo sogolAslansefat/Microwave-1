@@ -1,0 +1,7 @@
+$begin 'ValidationCache'
+	$begin 'OneValidationResult'
+		Variation='L1=\'1.8mm\' L10=\'6mm\' L11=\'1.54mm\' L2=\'4.3600000000000003mm\' L3=\'3.4100000000000001mm\' L4=\'3.8100000000000001mm\' L5=\'4.2000000000000002mm\' L6=\'3.7599999999999998mm\' L7=\'3.21mm\' L8=\'4.2599999999999998mm\' L9=\'12mm\' MarginX=\'5mm\' MarginY=\'10mm\' PortL=\'5mm\' PortW=\'1.5mm\' S1=\'0.22mm\' T=\'0.50800000000000001mm\' W1=\'0.78000000000000003mm\' W2=\'1.3600000000000001mm\' W3=\'0.20000000000000001mm\' W4=\'1.26mm\' W5=\'0.20000000000000001mm\' W6=\'0.68999999999999995mm\''
+		Status=true
+		FileName='VI66745060017318784804.tmp'
+	$end 'OneValidationResult'
+$end 'ValidationCache'
